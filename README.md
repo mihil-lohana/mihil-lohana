@@ -32,8 +32,6 @@ A .NET (C#) + SQL Server based ticket booking application.
 - Ensured secure transactions and data integrity  
 - Improved SQL query performance  
 
-🔗 *Project link below*
-
 ---
 
 ### 📊 SQL Practice Repository
