@@ -64,7 +64,7 @@ Mini Python projects:
 ---
 
 ## 📫 Connect With Me
-**LinkedIn:** https://www.linkedin.com/in/lohana-mihil-2b55a2373  
+**LinkedIn:** https://www.linkedin.com/in/mihil-lohana  
 **Email:** mannthakkar12@gmail.com  
 
 ---
